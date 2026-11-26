@@ -48,6 +48,10 @@ Every exit criterion belongs to one dimension, so gaps show up by area, not just
 3. **Plan the next level only.** Use that level's exit criteria, owners and first steps as the plan. Each page lists the risks that most often stall a program.
 4. **Prove the move.** A level is reached when its exit criteria are met with evidence, not when the work is scheduled.
 
+## Companion model
+
+The [Quality Engineering Maturity Model](https://github.com/vmrods/qe-maturity-model) pairs level for level with this one. Faster AI-assisted delivery only holds if quality keeps up, so both models judge stability on the same change failure rate and time to restore.
+
 ## About
 
 Built and maintained by Victor Rodriguez (Founder & CTO, [Joining Clouds](https://joiningclouds.com)). The model also drives a simulator that forecasts timeline, staffing and value before a team commits; the simulator is not part of this repository.
